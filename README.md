@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Maybachh
+- 👀 I’m interested in programming for about a year
+- 🌱 I’m currently learning Python
