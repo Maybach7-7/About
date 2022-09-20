@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Maybachh
+- 👋 Hi, I’m @Maybach7
 - 👀 I’m interested in programming for about a year
 - 🌱 I’m currently learning Python
